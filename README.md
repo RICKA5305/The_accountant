@@ -1,2 +1,1 @@
-# The_accountant
-Australian base accountant 
+# The Accountant Finance Dashboard
